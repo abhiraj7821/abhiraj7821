@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhishek and I'm aSoftware Developer with a strong foundation in MERN stack technologies.</h2>
+<h2 align="left">Hi 👋! My name is Abhishek and I'm a Aspiring AI Specialist | Python Enthusiast | Minor in AI at IIT Ropar | Passionate Coder.</h2>
 
 ###
 
