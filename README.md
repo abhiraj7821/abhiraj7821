@@ -1,6 +1,20 @@
-<h3 align="left">Hi 👋! My name is Abhishek and  I am an aspiring AI & Data Science professional with a strong foundation in Machine Learning, Deep Learning, and AI-driven solutions. Currently pursuing a Minor in AI from IIT Ropar, I have honed my expertise in Neural Networks, NLP, Computer Vision, and Data Analytics, applying these skills to real-world projects.</h3>
+<h3 align="left">🔥 Software Developer with an AI Mindset | I Build, Integrate & Scale LLM-Driven Systems</h3>
+<p>
+  Hiee👋🏻 ! I’m a full-stack developer turned AI engineer who doesn’t just follow trends—I build them. From front-end finesse to backend APIs, from AI integrations to building agentic workflows—if it’s software, I can make it work smarter.
 
-###
+⚡️ Built a GenAI Code Reviewer that understands and critiques code like a senior dev.
+⚡️ Designed a complete LLM RAG pipeline that delivers real-time, context-rich responses—think ChatGPT, but domain-tuned and enterprise-ready.
+
+I’m your go-to if you're thinking:
+→ "Can we add AI to this?" ✅
+→ "Can we make this product smarter, more autonomous?" ✅
+→ "Can this interface talk, think, or understand intent?" ✅
+
+Yes, I can do front-end, backend, APIs, AI agents, voice AI, and even production-ready pipelines. Just say the word—but remember, innovation comes with value.
+
+📬 Let’s talk if you want your product to think.
+
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhiraj7821&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
