@@ -16,11 +16,6 @@ Yes, I can do front-end, backend, APIs, AI agents, voice AI, and even production
 
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhiraj7821&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiraj7821&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <img align="right" height="150" src="https://camo.githubusercontent.com/ad4966264c8fa5326ddbaee595e7e445416a7119de6a104d33f0ca8b5783846d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d6d4e334d32467062586c35646d4e706258687263445271635446745a585932616d6f3161334a6b626d68764e5770366432746c4d435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f487a5074624f4b79426f4246734b346879632f67697068792e676966"  />
