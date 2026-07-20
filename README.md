@@ -1,24 +1,14 @@
-<h3 align="left">🔥 Software Developer with an AI Mindset | I Build, Integrate & Scale LLM-Driven Systems</h3>
+<h3 align="left">🔥 SDE-1 → AI-First Full-Stack Engineer | Next.js • Node.js • GenAI/RAG | Shipped 5+ Production Apps | Open to SDE-II
+
+</h3>
 <p>
-  Hiee👋🏻 ! I’m a full-stack developer turned AI engineer who doesn’t just follow trends—I build them. From front-end finesse to backend APIs, from AI integrations to building agentic workflows—if it’s software, I can make it work smarter.
+  Hiee👋🏻 ! 
+  Most "full-stack developers" ship features. I ship systems that think.
 
-⚡️ Built a GenAI Code Reviewer that understands and critiques code like a senior dev.
-⚡️ Designed a complete LLM RAG pipeline that delivers real-time, context-rich responses—think ChatGPT, but domain-tuned and enterprise-ready.
-
-I’m your go-to if you're thinking:
-→ "Can we add AI to this?" ✅
-→ "Can we make this product smarter, more autonomous?" ✅
-→ "Can this interface talk, think, or understand intent?" ✅
-
-Yes, I can do front-end, backend, APIs, AI agents, voice AI, and even production-ready pipelines. Just say the word—but remember, innovation comes with value.
-
-📬 Let’s talk if you want your product to think.
-
+  Software Engineer with hands-on experience building distributed, production-grade systems, including a multi-agent orchestration platform coordinating 6 specialized agents through a supervisor-pattern state graph, asynchronous job orchestration (BullMQ) for horizontal scalability, and containerized services deployed on Docker and AWS. Comfortable across C++, Python, TypeScript, and JavaScript, with a self-starter mindset and a growing foundation in data structures, distributed systems, and cloud infrastructure (AWS, GCP, Azure). Strong communicator who enjoys close collaboration, code review, and iterating feedback in small engineering teams.
+  
+📩 abhiraj7821@gmail.com | Open to full-time opportunities
 </p>
-
-###
-
-<img align="right" height="150" src="https://camo.githubusercontent.com/ad4966264c8fa5326ddbaee595e7e445416a7119de6a104d33f0ca8b5783846d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d6d4e334d32467062586c35646d4e706258687263445271635446745a585932616d6f3161334a6b626d68764e5770366432746c4d435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f487a5074624f4b79426f4246734b346879632f67697068792e676966"  />
 
 ###
 
@@ -55,19 +45,9 @@ Yes, I can do front-end, backend, APIs, AI agents, voice AI, and even production
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="30" alt="podman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
